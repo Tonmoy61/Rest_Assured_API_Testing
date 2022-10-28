@@ -33,4 +33,5 @@
  ```
  
 - The following report is generated:
+![Sample report](https://github.com/Tonmoy61/Rest_Assured_API_Testing/blob/master/report/report.png)
 
