@@ -29,8 +29,8 @@
 - Clone the repo.
 - Open cmd in the root folder.
 #### Run the Automation Script by the following command:
- 
  gradle clean test 
+ ```
  
 - The following report is generated:
 
