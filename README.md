@@ -9,20 +9,20 @@ Here the following tasks are done:
 - Can update any user by the corresponding id, validated using PUT and PATCH method.
 - Can delete any user by the id, negative test cases are added for it.
 - The variables are set and used from config.properties file.
-### Technology: </br>
+## :pushpin: Technology: </br>
 - Tool: REST Assured
 - IDE: Intellij
 - Build tool: Gradle
 - Language: Java
 - Test_Runner: TestNG
 
-### Prerequisites</br>
+## :pushpin: Prerequisites</br>
 - Install jdk 8 
 - Configure JAVA_HOME and GRADLE_HOME
 - Download Allure 2.18.1 and configure environment path
 - Stable internet connection
 
-### Project Run
+## :pushpin: Project Run
 - Clone the repo.
 - Open cmd in the root folder.
 #### Run the Automation Script by the following command:
