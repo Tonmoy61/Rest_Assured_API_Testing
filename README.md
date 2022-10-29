@@ -29,7 +29,7 @@ Here the following tasks are done:
  ```
  gradle clean test 
  ```
-- The following report is generated:
+:small_orange_diamond: The following report is generated:
 
 
 ![Sample report](https://github.com/Tonmoy61/Rest_Assured_API_Testing/blob/master/report/report.png)
